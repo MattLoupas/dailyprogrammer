@@ -1,4 +1,4 @@
-package io.loupas.dailyprogramer.easy.n340;
+package io.loupas.dailyprogrammer.easy.n340;
 
 import java.util.HashMap;
 

@@ -31,8 +31,6 @@ public class RepeatingNumbers {
 				builder.append(k).append(":").append(v).append(" ");
 			}
 		});
-		
-		String result = builder.toString().trim();
-		return result;
+		return builder.toString().trim();
 	}
 }
