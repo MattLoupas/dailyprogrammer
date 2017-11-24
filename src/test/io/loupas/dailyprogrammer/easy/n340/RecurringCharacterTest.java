@@ -3,7 +3,7 @@ package io.loupas.dailyprogrammer.easy.n340;
 import org.junit.Assert;
 import org.junit.Test;
 
-import io.loupas.dailyprogramer.easy.n340.RecurringCharacter;
+import io.loupas.dailyprogrammer.easy.n340.RecurringCharacter;
 
 public class RecurringCharacterTest {
 	@Test
